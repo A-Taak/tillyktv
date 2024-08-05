@@ -38,7 +38,7 @@ const Center = styled.div`
 
 const Grid = styled.div`
   display: grid;
-  grid-template-columns: repeat(2, minmax(calc(10rem + 15vw), 1fr));
+  grid-template-columns: repeat(2, minmax(calc(10rem + 15vw), 80%));
   grid-gap: calc(0.5rem + 1vw);
   z-index:11;
 `;

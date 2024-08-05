@@ -59,7 +59,7 @@ justify-content: space-evenly;
 
 &>*:last-child{
     color: ${props => `rgba(${props.theme.bodyRgba},0.6)` };
-    font-size: calc(0.5rem + 1.5vw);
+    font-size: calc(0.3rem + 1.5vw);
     font-weight:300;
 
 }`
@@ -77,7 +77,7 @@ const Intro = () => {
           <Text>
             <h1>Hi,</h1>
             <h3>I'm Tilly.</h3>
-            <h6>Take a look at my content</h6>
+            <h6>Your favourite pokemon collecting cosplayer, Enjoy my content and don't forget to take a peak!</h6>
           </Text>
         </SubBox>
         <SubBox>

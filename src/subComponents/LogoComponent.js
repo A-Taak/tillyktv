@@ -19,6 +19,11 @@ const Logo = styled.h1`
   left: 2rem;
   top: 2rem;
   z-index: 3;
+
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none; 
+  user-select: none;
 `;
 
 const LogoComponent = (props) => {

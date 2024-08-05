@@ -128,7 +128,15 @@ const Video = styled.video`
   width: 100%;
   height: 100%;
   object-fit: cover;
-  box-shadow: 0 0 200px rgba(0, 0, 0, 0.8) inset;
+`;
+
+const Shadow = styled.div`
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  box-shadow: inset 0px 0px 36px 36px rgba(0, 0, 0, 0.45);
+  top: 0;
+  left: 0;
 `;
 
 
@@ -140,7 +148,8 @@ const Main = () => {
 
     return (
       <MainContainer>
-        <Video src={Mainbg} autoPlay loop muted playsInline />
+        <Video src={Mainbg} autoPlay loop muted playsInline controls="" />
+        <Shadow />
         <DarkDiv click={click} />
         <Container>
           <LogoComponent theme="dark" />
