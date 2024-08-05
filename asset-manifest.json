@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/tillyktv/static/css/main.d06bce80.css",
+    "main.js": "/tillyktv/static/js/main.2030948f.js",
+    "static/media/ex_bg.png": "/tillyktv/static/media/ex_bg.e2e63583b19db6cd3d39.png",
+    "static/media/mainbg.mp4": "/tillyktv/static/media/mainbg.d32cc352fb83684a550c.mp4",
+    "static/media/you-got-me.mp3": "/tillyktv/static/media/you-got-me.2421ff129a6c8362f85c.mp3",
+    "static/media/cover1.png": "/tillyktv/static/media/cover1.2def3da90ca2740f524b.png",
+    "static/media/jigglypuff.png": "/tillyktv/static/media/jigglypuff.20b59c803b5723906554.png",
+    "static/media/musicnote.png": "/tillyktv/static/media/musicnote.7fc6b7ca1e44e6360cdf.png",
+    "static/media/background.png": "/tillyktv/static/media/background.a0e5f27ae66762a06e72.png",
+    "static/media/1.jpg": "/tillyktv/static/media/1.4be60b421919a9c911ec.jpg",
+    "static/media/8.jpg": "/tillyktv/static/media/8.8a4c93d1e5c2ec225e31.jpg",
+    "static/media/6.jpg": "/tillyktv/static/media/6.48d8130bf38a8ad3c127.jpg",
+    "static/media/2.jpg": "/tillyktv/static/media/2.4d1959d0aabcd6d7103a.jpg",
+    "static/media/7.jpg": "/tillyktv/static/media/7.3237eaacd72ccd628c30.jpg",
+    "static/media/spaceman.png": "/tillyktv/static/media/spaceman.5ec7fcfa9a803ead726c.png",
+    "static/media/4.jpg": "/tillyktv/static/media/4.8f352929cc3915d324b8.jpg",
+    "static/media/3.jpg": "/tillyktv/static/media/3.279d24d833c88d6df08b.jpg",
+    "static/media/9.jpg": "/tillyktv/static/media/9.3349e74c8cf67227450d.jpg",
+    "static/media/pokeball.png": "/tillyktv/static/media/pokeball.4fbf1607c8038a0cf05b.png",
+    "static/media/telegram.png": "/tillyktv/static/media/telegram.0a4265bfea7fe8beeaf2.png",
+    "index.html": "/tillyktv/index.html",
+    "main.d06bce80.css.map": "/tillyktv/static/css/main.d06bce80.css.map",
+    "main.2030948f.js.map": "/tillyktv/static/js/main.2030948f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d06bce80.css",
+    "static/js/main.2030948f.js"
+  ]
+}
