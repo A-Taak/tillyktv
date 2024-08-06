@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/tillyktv/static/css/main.d06bce80.css",
-    "main.js": "/tillyktv/static/js/main.2307ab7a.js",
+    "main.js": "/tillyktv/static/js/main.b0c33331.js",
     "static/media/ex_bg.png": "/tillyktv/static/media/ex_bg.e2e63583b19db6cd3d39.png",
-    "static/media/mainbg.mp4": "/tillyktv/static/media/mainbg.d32cc352fb83684a550c.mp4",
+    "static/media/mainbg.mp4": "/tillyktv/static/media/mainbg.f7349d9e2a27eac0973d.mp4",
     "static/media/you-got-me.mp3": "/tillyktv/static/media/you-got-me.2421ff129a6c8362f85c.mp3",
     "static/media/cover1.png": "/tillyktv/static/media/cover1.2def3da90ca2740f524b.png",
     "static/media/jigglypuff.png": "/tillyktv/static/media/jigglypuff.20b59c803b5723906554.png",
@@ -22,10 +22,10 @@
     "static/media/telegram.png": "/tillyktv/static/media/telegram.0a4265bfea7fe8beeaf2.png",
     "index.html": "/tillyktv/index.html",
     "main.d06bce80.css.map": "/tillyktv/static/css/main.d06bce80.css.map",
-    "main.2307ab7a.js.map": "/tillyktv/static/js/main.2307ab7a.js.map"
+    "main.b0c33331.js.map": "/tillyktv/static/js/main.b0c33331.js.map"
   },
   "entrypoints": [
     "static/css/main.d06bce80.css",
-    "static/js/main.2307ab7a.js"
+    "static/js/main.b0c33331.js"
   ]
 }
